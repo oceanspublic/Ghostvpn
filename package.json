@@ -1,0 +1,16 @@
+{
+  "name": "andipdx",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "express": "~4.16.1",
+    "fs": "0.0.1-security",
+    "fsm-as-promised": "^0.16.0",
+    "helmet": "^3.18.0",
+    "lodash": "^4.17.11",
+    "lodash-es": "^4.17.11"
+  }
+}
